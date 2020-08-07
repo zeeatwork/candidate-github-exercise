@@ -1,0 +1,21 @@
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+}
+
+.footer {
+  background-color: #F1F1F1;
+  text-align: left;
+  font-size: xx-small;
+  padding: 10px;
+}
+
+form {
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+.hidden {
+  display: none;
+}
